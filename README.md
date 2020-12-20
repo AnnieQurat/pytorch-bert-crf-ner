@@ -9,6 +9,7 @@
            Neural Architectures for Named Entity Recognition<br />
            End-toEnd Sequence labeling via BLSTM-CNN-CRF<br />
            https://arxiv.org/abs/1603.01360<br />
+           
    code:<br />
            https://github.com/glample/tagger<br />
 # usage:
