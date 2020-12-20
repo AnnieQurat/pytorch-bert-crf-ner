@@ -12,6 +12,7 @@
            https://github.com/glample/tagger<br />
 # usage:
    python train.py<br />
+   pip install visdom for plotting />
 
 # performance
 
