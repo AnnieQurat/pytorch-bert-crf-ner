@@ -16,4 +16,6 @@
 
 # performance
 
+   ![alt text](https://github.com/AnnieQurat/pytorch-bert-crf-ner/blob/main/200%20epochs.png)
+   
    f1 91.00%
