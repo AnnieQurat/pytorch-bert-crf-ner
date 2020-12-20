@@ -17,6 +17,6 @@
 # performance
 
    ![alt text](https://github.com/AnnieQurat/pytorch-bert-crf-ner/blob/main/progress-epochs/200%20epochs.png)
-   
+   ![alt text](https://github.com/AnnieQurat/pytorch-bert-crf-ner/blob/main/progress-epochs/5000%20epochs.png)
    
    f1 91.00%
