@@ -3,16 +3,16 @@
    glove embeddings are used and manually uploaded to models folder
 
 
-## reference:<br />
+# reference:<br />
 
    paper:<br />
            Neural Architectures for Named Entity Recognition<br />
            End-toEnd Sequence labeling via BLSTM-CNN-CRF<br />
    code:<br />
            https://github.com/glample/tagger<br />
-## usage:
+# usage:
    python train.py<br />
 
-## performance
+# performance
 
    f1 91.00%
