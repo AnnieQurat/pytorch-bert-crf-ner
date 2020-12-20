@@ -1,6 +1,6 @@
 # dataset:
-
-   
+   the dataset is in the directory
+   glove embeddings are used and manually uploaded to models folder
 
 
 ## reference:<br />
