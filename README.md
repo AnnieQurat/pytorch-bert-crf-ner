@@ -13,7 +13,7 @@
    code:<br />
            https://github.com/glample/tagger<br />
 # usage:
-   python train.py<br />
+   python train.py for training the pretrained model<br />
    implementation.ipynb on Jupyter Notebook (errors not fixed yet)<br />
    'pip install visdom' for plotting
 
