@@ -14,6 +14,7 @@
            https://github.com/glample/tagger<br />
 # usage:
    python train.py<br />
+   implementation.ipynb on Jupyter Notebook (errors not fixed yet)<br />
    'pip install visdom' for plotting
 
 # performance
